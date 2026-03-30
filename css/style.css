@@ -35,7 +35,7 @@ header img {
 }
 
 section {
-  padding: 30px 40px 10px 40px;
+  padding: 20px 40px 10px 40px;
   grid-column: 2 / 3;
   grid-row: 1 / 2;
 }
